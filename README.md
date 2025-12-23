@@ -10,7 +10,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./divider.svg" alt="divider">
+</p>
 
 # 👋 Welcome to **TempoMailUSA**
 
@@ -36,116 +38,121 @@ We help users:
 - Avoid spam & marketing emails  
 - Reduce phishing risks  
 - Prevent tracking & profiling  
-- Stay safer after data breaches  
-- Sign up instantly without exposing real email addresses  
+- Stay safe after data breaches  
+- Sign up instantly without exposing real emails  
 
-👉 **Try it now (no login required):**  
-🌐 **https://tempomailusa.com**
+🌐 **Try it now:** https://tempomailusa.com
 
 ---
+
+<p align="center">
+  <img src="./divider.svg" alt="divider">
+</p>
 
 ## 🛡️ Why TempoMailUSA Exists
 
-The modern internet demands your email everywhere — and that leads to:
+The internet demands your email everywhere — resulting in:
 
 - ❌ Spam overload  
-- ❌ Email tracking & profiling  
-- ❌ Data breaches  
+- ❌ Tracking & profiling  
+- ❌ Data leaks  
 - ❌ Phishing attacks  
 
-TempoMailUSA solves this by offering **instant, disposable inboxes** that automatically expire — keeping your **real inbox clean and private**.
+**TempoMailUSA fixes this** with instant disposable inboxes that auto-expire.
 
 ---
 
-## ⭐ Mid-Page CTA — Use Disposable Email the Smart Way
+## ⭐ Smart CTA
 
-> Stop sacrificing your real email for every signup.
+> Stop giving your real email to every website.
 
-🌐 **Generate a temporary email → https://tempomailusa.com**
+👉 **Generate a disposable email:**  
+🌐 https://tempomailusa.com
 
 ---
+
+<p align="center">
+  <img src="./divider.svg" alt="divider">
+</p>
 
 ## ✨ Key Features
 
-- ⚡ One-click temporary email generation  
-- 📥 Live inbox (real-time email delivery)  
-- 🗑️ Automatic email & inbox deletion  
-- 🔒 No account, no login, no tracking  
-- 📱 Mobile-friendly, fast UI  
-- 🧩 Developer & QA-friendly workflows  
+- ⚡ One-click temporary email
+- 📥 Live inbox (real-time)
+- 🗑️ Automatic deletion
+- 🔒 No account, no tracking
+- 📱 Mobile-friendly UI
+- 🧩 Developer & QA ready
 
 ---
 
 ## 👥 Who Uses TempoMailUSA?
 
-| User Type | Use Case |
-|----------|---------|
-| 👤 Privacy-focused users | Safe sign-ups & newsletters |
-| 🧑‍💻 Developers / QA | Testing & automation |
-| 🚀 Startups | Vendor trials & experiments |
-| 🧼 Everyday users | Spam-free inbox |
+| User | Use Case |
+|----|----|
+| 👤 Privacy users | Safe sign-ups |
+| 🧑‍💻 Developers | OTP & flow testing |
+| 🚀 Startups | Demos & trials |
+| 🧼 Everyone | Spam-free inbox |
 
 ---
+
+<p align="center">
+  <img src="./divider.svg" alt="divider">
+</p>
 
 ## 🧠 Privacy Philosophy
 
-> **Data minimization is the strongest privacy feature.**
+> **Data minimization = real security**
 
-- We don’t ask for personal data  
-- We don’t create user profiles  
-- Emails auto-expire  
-- Short retention = lower risk  
+- No personal data
+- No profiles
+- Short retention
+- Automatic deletion
 
-TempoMailUSA is built with **privacy by default**, not as an afterthought.
-
----
-
-## 🤖 AI-Powered Tools (Coming Soon)
-
-We’re expanding TempoMailUSA with AI utilities such as:
-
-- 🧠 AI Spam & Phishing Analyzer  
-- ✍️ AI Email Generators  
-- 🔍 Email Security Insights  
-- ⚡ Smart inbox analysis  
-
-Built to enhance **email safety + productivity** without compromising privacy.
+Privacy is **default**, not optional.
 
 ---
 
-## 🧑‍💻 For Developers & QA Teams
+## 🤖 AI Tools (Coming Soon)
 
-TempoMailUSA is ideal for:
-
-- Registration flow testing  
-- Email verification & OTP testing  
-- Password reset testing  
-- CI/CD pipelines  
-
-Disposable inboxes = **clean tests, zero cleanup, no real accounts polluted**.
+- AI Spam & Phishing Analyzer  
+- AI Email Generator  
+- AI Reply Generator  
+- Smart Inbox Analysis  
 
 ---
 
-## ⭐ Support the Project
+## 🧑‍💻 For Developers
 
-If you believe in:
-- 🔐 Online privacy  
-- 🧼 Spam-free inboxes  
-- 🌍 Open & accessible tools  
+Perfect for:
+- Signup testing
+- OTP verification
+- Password reset flows
+- CI/CD pipelines
 
-👉 **Give this profile a ⭐**  
-👉 **Share TempoMailUSA with others**
+Disposable inboxes = **zero cleanup**.
 
 ---
 
-## 🚀 Start Using TempoMailUSA Today
+<p align="center">
+  <img src="./divider.svg" alt="divider">
+</p>
 
-### Protect your inbox  
-### Reduce tracking  
-### Stay private online  
+## ⭐ Support the Mission
+
+If you care about:
+- 🔐 Privacy
+- 🧼 Clean inboxes
+- 🌍 Open tools
+
+👉 **Star this profile** ⭐  
+👉 **Share TempoMailUSA**
+
+---
+
+## 🚀 Start Now
 
 🌐 **https://tempomailusa.com**
 
----
-
-> Built for privacy-first users, developers, and the modern internet.
+> Privacy isn’t a feature — it’s a right.
